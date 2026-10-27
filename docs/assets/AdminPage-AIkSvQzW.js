@@ -1,0 +1,1 @@
+import{X as e}from"./index-CS26NwWZ.js";var t=e(),n=()=>(0,t.jsx)(`div`,{children:`AdminPage`});export{n as AdminPage,n as default};
